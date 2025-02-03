@@ -1,5 +1,7 @@
 # Cloud Computing Models
 
+![Deployment Model](images/deployment_model.png)
+
 ## IaaS (Infrastructure as a Service)
 IaaS (Infrastructure as a Service) is a cloud computing model that provides virtualized computing resources over the internet. Instead of purchasing and maintaining physical servers, businesses can rent computing power, storage, and networking from cloud providers on a pay-as-you-go basis.
 
