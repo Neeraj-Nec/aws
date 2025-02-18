@@ -12,3 +12,5 @@
 - Offers better control over security and access (e.g., private subnets for databases).
 - No internet access unless explicitly set up with an Internet Gateway.
 
+![vpc part2](https://github.com/Neeraj-Nec/aws/blob/main/images/vpc_4.png)
+
