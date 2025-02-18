@@ -14,3 +14,11 @@
 
 ![vpc part2](https://github.com/Neeraj-Nec/aws/blob/main/images/vpc_4.png)
 
+## Default Configration that you will made to create VPC
+ - Create VPC
+ - Create Subnet for this VPC
+ - Create Internet Table
+ - Create route Table
+   
+![vpc part2](https://github.com/Neeraj-Nec/aws/blob/main/images/vpc_5.png)
+
