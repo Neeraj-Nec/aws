@@ -1,0 +1,14 @@
+# AWS VPC Types
+
+## 1. Default VPC
+- Automatically created by AWS in each region.
+- Comes with public subnets, internet gateway, route tables, and security groups pre-configured.
+- All EC2 instances launched in the default VPC get a public IP by default.
+- Suitable for simple setups, testing, or workloads needing internet access.
+
+## 2. Custom VPC
+- Created manually by you to meet specific networking needs.
+- You can define private and public subnets, custom route tables, NAT gateways, etc.
+- Offers better control over security and access (e.g., private subnets for databases).
+- No internet access unless explicitly set up with an Internet Gateway.
+
