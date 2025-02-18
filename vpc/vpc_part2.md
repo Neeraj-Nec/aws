@@ -54,3 +54,10 @@ A **private subnet** is a subnet that does **not** have direct access to the int
 
 ![VPC Subnet](https://github.com/Neeraj-Nec/aws/blob/main/images/vpc_6.png)
 
+## 3. Reserved Subnet IP
+Example when starting subnet is **10.0.0.0/16**
+
+  ![VPC Subnet](https://github.com/Neeraj-Nec/aws/blob/main/images/vpc_7.png)
+
+
+
