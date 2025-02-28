@@ -18,3 +18,6 @@
 
 ![Vpc Image](https://github.com/Neeraj-Nec/aws/blob/main/images/VPC_route.png)
 
+### assosiate router with the subnet (private /public)
+### integrate the router with the internet gateway for public VPC to provide priblic access to the public subnet
+
